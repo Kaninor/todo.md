@@ -14,6 +14,6 @@ View the raw content of this file to understand the format.
 
 - [ ] Work on Github Repo [JIRA-345]  
 
-### Done ✓
+### Done Babe
 
 - [x] Create my first TODO.md  
